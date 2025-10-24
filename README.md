@@ -10,6 +10,10 @@
 
 ![Logo](assets/logo-black.png#gh-light-mode-only)
 ![Logo](assets/logo-white.png#gh-dark-mode-only)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fplatform9%2Fkamaji.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fplatform9%2Fkamaji?ref=badge_shield)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fplatform9%2Fkamaji.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fplatform9%2Fkamaji?ref=badge_large)
 
 ### 🤔 What is Kamaji?
 
